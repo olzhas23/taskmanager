@@ -1,0 +1,4 @@
+tasksmanager
+============
+
+Django project
